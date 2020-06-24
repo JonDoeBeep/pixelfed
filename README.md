@@ -2,6 +2,8 @@
 
 <p align="center">
 <a href="https://circleci.com/gh/pixelfed/pixelfed"><img src="https://circleci.com/gh/pixelfed/pixelfed.svg?style=svg" alt="Build Status"></a>
+
+[![Run on Repl.it](https://repl.it/badge/github/JonDoeBeep/pixelfed)](https://repl.it/github/JonDoeBeep/pixelfed)
 <a href="https://packagist.org/packages/pixelfed/pixelfed"><img src="https://poser.pugx.org/pixelfed/pixelfed/v/stable.svg" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/pixelfed/pixelfed"><img src="https://poser.pugx.org/pixelfed/pixelfed/license.svg" alt="License"></a>
 </p>
